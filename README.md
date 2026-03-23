@@ -3,6 +3,8 @@
 This is a project that uses Jikan API to show you anime , at first it shows you the 6 best animes .
 Then there is a search text field to search for an anime you want , tapping or clicking on anime card will give you more details about the anime
 
+I used Node, Expo and Typescript for this project , I was trying to get a way in which I could develop apps on mobile and I found this using Expo route to be a bit easier and works well on my 4GB ram laptop
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
