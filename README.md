@@ -4,6 +4,22 @@ Then there is a search text field to search for an anime you want , tapping or c
 
 I used Node, Expo and Typescript for this project , I was trying to get a way in which I could develop apps on mobile and I found this using Expo route to be a bit easier and works well on my 4GB ram laptop
 
+# Here are a few screenshots 
+![App Screenshot](./assets/images/desktop_hpage.png)
+Home page
+
+---
+
+![App Screenshot](./assets/images/desktop_searchFeat.png)
+Search feature being used
+
+---
+
+![App Screenshot](./assets/images/desktop_aniDetails.png)
+Details of the anime clicked or tapped on
+
+---
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
