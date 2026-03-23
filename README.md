@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 # Expo-Anime-Browser
-=======
 This a project that uses Jikan API to show you anime , at first it shows you the 6 best animes .
 Then there is a search text field to search for an anime you want , tapping or clicking on anime card will give you more details about the anime
 
